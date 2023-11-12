@@ -1,2 +1,2 @@
 # ManiaBR
-Roupas com tema Brasil
+Objetos com tema Brasil
